@@ -1,0 +1,21 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-Switches.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\fredy\Documents\Unreal Projects\Switches\Intermediate\Build\Win64\x64\SwitchesEditor\Development\Engine\SharedPCH.Engine.Cpp20.InclOrderUnreal5_0.h.obj"
+"C:\Users\fredy\Documents\Unreal Projects\Switches\Intermediate\Build\Win64\x64\UnrealEditor\Development\Switches\CaptureZone.gen.cpp.obj"
+"C:\Users\fredy\Documents\Unreal Projects\Switches\Intermediate\Build\Win64\x64\UnrealEditor\Development\Switches\Door.gen.cpp.obj"
+"C:\Users\fredy\Documents\Unreal Projects\Switches\Intermediate\Build\Win64\x64\UnrealEditor\Development\Switches\LightSwitch.gen.cpp.obj"
+"C:\Users\fredy\Documents\Unreal Projects\Switches\Intermediate\Build\Win64\x64\UnrealEditor\Development\Switches\Switches.init.gen.cpp.obj"
+"C:\Users\fredy\Documents\Unreal Projects\Switches\Intermediate\Build\Win64\x64\UnrealEditor\Development\Switches\UseableInterface.gen.cpp.obj"
+"C:\Users\fredy\Documents\Unreal Projects\Switches\Intermediate\Build\Win64\x64\UnrealEditor\Development\Switches\CaptureZone.cpp.obj"
+"C:\Users\fredy\Documents\Unreal Projects\Switches\Intermediate\Build\Win64\x64\UnrealEditor\Development\Switches\Door.cpp.obj"
+"C:\Users\fredy\Documents\Unreal Projects\Switches\Intermediate\Build\Win64\x64\UnrealEditor\Development\Switches\LightSwitch.cpp.obj"
+"C:\Users\fredy\Documents\Unreal Projects\Switches\Intermediate\Build\Win64\x64\UnrealEditor\Development\Switches\Switches.cpp.obj"
+"C:\Users\fredy\Documents\Unreal Projects\Switches\Intermediate\Build\Win64\x64\UnrealEditor\Development\Switches\UseableInterface.cpp.obj"
+"C:\Users\fredy\Documents\Unreal Projects\Switches\Intermediate\Build\Win64\x64\UnrealEditor\Development\Switches\Default.rc2.res"
+/OUT:"C:\Users\fredy\Documents\Unreal Projects\Switches\Intermediate\Build\Win64\x64\UnrealEditor\Development\Switches\UnrealEditor-Switches.lib"

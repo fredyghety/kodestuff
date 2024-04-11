@@ -1,0 +1,22 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/fredy/Documents/Unreal Projects/Switches/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset",
+				"C:/Users/fredy/Documents/Unreal Projects/Switches/Content/ThirdPerson/Blueprints/MyCaptureZone.uasset",
+				"C:/Users/fredy/Documents/Unreal Projects/Switches/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/NH/UL63Q6CHUTJ2WQ4LYDJN9N.uasset",
+				"C:/Users/fredy/Documents/Unreal Projects/Switches/Content/ThirdPerson/Blueprints/Pole.uasset",
+				"C:/Users/fredy/Documents/Unreal Projects/Switches/Content/ThirdPerson/Blueprints/Flag.uasset",
+				"C:/Users/fredy/Documents/Unreal Projects/Switches/Content/ThirdPerson/Blueprints/Material.uasset",
+				"C:/Users/fredy/Documents/Unreal Projects/Switches/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/fredy/Documents/Unreal Projects/Switches/Content/ThirdPerson/Blueprints/MyLightSwitch.uasset",
+				"C:/Users/fredy/Documents/Unreal Projects/Switches/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/KZ/DK02TP9RPUM2QX17DX5R2L.uasset",
+				"C:/Users/fredy/Documents/Unreal Projects/Switches/Content/ThirdPerson/Blueprints/MyDoor.uasset",
+				"C:/Users/fredy/Documents/Unreal Projects/Switches/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/MG/BHFTG5PO8S4HB2YFRXANRW.uasset"
+			]
+		}
+	]
+}
